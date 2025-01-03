@@ -5,9 +5,11 @@ A drop-in lexer for C
 
 ## Usage
 
-`$ gcc main.c src/lexer.c`
+```
+$ gcc main.c src/lexer.c
 
-`$./a input.c`
+$ ./a input.c
+``` 
 where input.c will be the file you want to be tokenized
 
 
